@@ -191,8 +191,8 @@
     const centerX = 500;
     const centerY = 400;
 
-    const centerX2 = 300;
-    const centerY2 = 200;
+    const centerX2 = 600;
+    const centerY2 = 800;
 
     nomes[0].forEach((nome, i) => {
       // espalhar nomes em volta do centro com aleatoriedade controlada
@@ -215,7 +215,7 @@
     nomes[1].forEach((nome, i) => {
       // espalhar nomes em volta do centro com aleatoriedade controlada
       const angle = Math.random() * 2 * Math.PI;
-      const distance = 250 + Math.random() * 300; // distância do centro
+      const distance = 150 + Math.random() * 300; // distância do centro
       const x = centerX2 + distance * Math.cos(angle);
       const y = centerY2 + distance * Math.sin(angle) + randomInt(10,30);
 
@@ -233,7 +233,7 @@
     nomes[2].forEach((nome, i) => {
       // espalhar nomes em volta do centro com aleatoriedade controlada
       const angle = Math.random() * 2 * Math.PI;
-      const distance = 350 + Math.random() * 300; // distância do centro
+      const distance = 150 + Math.random() * 300; // distância do centro
       const x = centerX + distance * Math.cos(angle) + randomInt(20,40);
       const y = centerY + distance * Math.sin(angle);
 
