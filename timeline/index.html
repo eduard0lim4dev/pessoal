@@ -11,7 +11,58 @@
       margin: 0;
       padding: 20px;
     }
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: #357d93;
+      opacity: 1.0;
+      display: flex;
+      justify-content: right;
+      padding: 10px 20px 10px 0px;
+      z-index: 1000;
+    }
 
+    nav button, nav a {
+      color: #fff;
+      background: #444;
+      border: none;
+      padding: 10px 15px;
+      margin: 0 5px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s;
+      text-decoration: none;
+    }
+
+    nav button:hover, nav a:hover {
+      background: #2196f3;
+    }
+
+    .submenu {
+      display: flex;
+      gap: 10px;
+      max-width: 0;
+      overflow: hidden;
+      transition: max-width 0.4s ease;
+    }
+
+    .submenu a {
+      background: #666;
+      color: #fff;
+      padding: 10px 15px;
+      border-radius: 5px;
+      white-space: nowrap;
+    }
+
+    .submenu a:hover {
+      background: #2196f3;
+    }
+
+    .submenu.active {
+      max-width: 500px;
+    }
     h1 {
       text-align: center;
       color: #333;
@@ -83,10 +134,36 @@
       color: #2196f3;
       margin-bottom: 8px;
     }
-
+    
+    footer {
+      background: #357d93;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+    }
   </style>
 </head>
 <body>
+  <header>
+  <nav>
+    <button onclick="Subm()" style="font-size:17px;">Áreas</button>
+    <div class="submenu" id="submenu">
+      <a href="dev/">Dev</a>
+      <a href="mkt/">Mkt</a>
+      <a href="lan/">Rede</a>
+    </div>
+    <a href="portifolio/">Portifólio</a>
+    <a href="timeline/">Time Line</a>
+    <a href="curriculo/">Currículo</a>
+  </nav>
+  </header>
+  
+  <p>&nbsp;</p>
+  
   <h1>Minha Timeline Profissional</h1>
 
   <div class="timeline">
@@ -114,5 +191,8 @@
       </div>
     </div>
   </div>
+<footer> © 2025 - Todos os direitos reservados
+</footer>
 </body>
+
 </html>
