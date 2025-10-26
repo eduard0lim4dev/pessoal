@@ -1,8 +1,262 @@
-<html>
-  <head><title>Eduardo Lima - DEV</title></head>
-  <body>
-    <h4>Eduardo Lima - DEV</h4>
-    <p onclick="alert('oi');">Serviços</p>
-    <a href="timeline/index.html">Sobre</a>
-  </body>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Eduardo Lima - Portifolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f9f9f9;
+      background-image:url('');
+      background-repeat:no-repeat;
+      background-position: center center;
+      font-family: Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: #357d93;
+      opacity: 1.0;
+      display: flex;
+      justify-content: right;
+      padding: 10px 20px 10px 0px;
+      z-index: 1000;
+    }
+
+    nav button, nav a {
+      color: #fff;
+      background: #444;
+      border: none;
+      padding: 10px 15px;
+      margin: 0 5px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s;
+      text-decoration: none;
+    }
+
+    nav button:hover, nav a:hover {
+      background: #2196f3;
+    }
+
+    .submenu {
+      display: flex;
+      gap: 10px;
+      max-width: 0;
+      overflow: hidden;
+      transition: max-width 0.4s ease;
+    }
+
+    .submenu a {
+      background: #666;
+      color: #fff;
+      padding: 10px 15px;
+      border-radius: 5px;
+      white-space: nowrap;
+    }
+
+    .submenu a:hover {
+      background: #2196f3;
+    }
+
+    .submenu.active {
+      max-width: 500px;
+    }
+
+  .cloud{
+        /*width: min(980px, 95vw);*/
+        aspect-ratio: 16/9;
+        display:grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        gap: 8px;
+        align-items:center;
+        justify-items:center;
+        position:relative;
+  }
+
+    .container {
+      position: relative;
+      width: 1000px;
+      height: 800px;
+      z-index: 0;
+    }
+
+    .container2 {
+      position: absolute;
+      width: 1080px;
+      height: 865px;
+      z-index: 0;
+    }
+
+    .principal {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 70px;
+      font-weight: bold;
+      color: #c62828;
+      z-index: 9999;
+    }
+
+    .main {
+      grid-column: 2 / span 3;
+      grid-row: 2 / span 3;
+      font-weight: 800;
+      line-height: 0.9;
+      text-align: center;
+      transform: none;
+      font-size: clamp(40px, 9.5vw, 120px);
+      color: #e11d48;
+      -webkit-text-stroke: 2px black;
+      text-stroke: 2px black;
+      text-shadow: 0 6px 18px rgba(225, 29, 72, 0.12);
+    }
+
+    .nome {
+      position: absolute;
+      transition: transform 0.3s ease;
+      white-space: nowrap;
+    }
+
+    .nome:hover {
+      transform: scale(1.5);
+      z-index: 10;
+    }
+
+    footer {
+      background: #357d93;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+    }
+
+  </style>
+</head>
+<body>
+  <header>
+  <nav>
+    <button onclick="Subm()" style="font-size:17px;">Áreas</button>
+    <div class="submenu" id="submenu">
+      <a href="#op1">Dev</a>
+      <a href="#op2">Mkt</a>
+      <a href="#op3">Rede</a>
+    </div>
+    <a href="portifolio">Portifólio</a>
+    <a href="timeline">Time Line</a>
+    <a href="curriculo">Currículo</a>
+  </nav>
+  </header>
+
+  <main>
+  </main>
+
+    <div class="principal">
+                <div class="cloud">
+                        <span class="main" title="Nome principal">Eduardo Lima</span>
+                </div>
+    </div>
+
+   <div class="container"> </div>
+   <div class="container2"> </div>
+   <div class="container3"> </div>
+
+  <footer> © 2025 - Todos os direitos reservados
+  </footer>
+  <script>
+    const container = document.querySelector('.container');
+    const container2 = document.querySelector('.container2');
+    const container3 = document.querySelector('.container3');
+
+    const nomes = [];
+    nomes[0] = ["Windows","Linux","Mac","Android","Windows Servers","Linuxs Servers","VPS","Dockers","Logica de programação","Orientação a Objetos (OO)","Desenvolvimento de API","Arquitetura de Microsserviços","Arquitetura Serverless","Function as a Service (FaaS)","Backend as a Service (BaaS)","WordPress","Front-end","HTML","CSS","XML","Json","Javascript","TypeScript","Frameworks","ASP","ASP.net","Jquery","Ajax","Angular","React","Node.js","Back-end","PHP","Python","C++","C#","Pascal","Delph 12","CMD","PowerShell","Scripts","Banco de dados","HeidiSQL","SQL","Mysql","Firebird","MongoDB","PostgreSQL","NoSQL","Servidores Web","Controle de Versão","Git","GitHub","Plataformas de APIs","Integração com APIs REST","AWS","Clouds","Macro","Visual Basic","Bash","Laravel","MVC","Automação Workflow(n8n)"];
+    nomes[1] = ["Windows","Linux","Mac","Ilustração","Figma","Adobe Photoshop","GIMP","Adobe Illustrator","Corel Designer","Adobe inDesign","Adobe XD","Vetorização","Corel Draw","LibreOffice Draw","Video","Adobe Premiere Pro","Adobe After Effect","Canva","Animação","Lightworks","Camtasia","Cinema 4d","Blender","3d Max","Sketchup","Office","LibreOffice","Excel","Word","Access","PowerBi","Owned Media","Paid Media","Criação","Google Analytics","Meta Business","WEB 3.0","Pinegrow Web Editor","Adobe Dreamweaver","Adobe Fireworkrs","HTML","CSS3","Javascript","ShareX","Mobirise","Frameworks","Bootstrap","Anjular","Node","Marketing Digital","Audio","Audacity","Adobe Audition","Youtube","Wordpress","Plugins","Elementor","CRM","Fechamento de arquivos","SWOT","KPIs","Marketing 4.0","Mockup"];
+    nomes[2] = ["Windows","Linux","Mac","Switchs","LANs ","VLANs ","WANs ","Hosts","Acesso remoto ","TCP/IP ","Cloudflare","Hospedagens","AWS","RedeHost","HostGator VPS","Servidores","Roteadores","Switches","Protocolos","Serviços","Firewall","Voip","Backups","DHCP","DNS","FTP","HTTP","HTTPS","IMAP","LDAP","MGCP","NNTP","NTP","POP","ONC/RPC","RTP","SMTP","SNMP","SSH","Telnet","TLS/SSL","Infraestrutura","VPS","Seguraça","TOKENS","Certificados Digitais","Mirro","CDN","Access Point","SLA","Ticket","Ubiquiti","Docker","Storage","Web Hosting","Clouds","Azure","CAT5,6","SAMBA","Apache","NGINX","Acronis","Zabbix"];
+
+    const cores = ["#e53935","#3949ab","#00897b","#fbc02d","#8e24aa","#fb8c00","#43a047","#1e88e5"];
+    const centerX = 500;
+    const centerY = 400;
+
+    const centerX2 = 300;
+    const centerY2 = 200;
+
+    nomes[0].forEach((nome, i) => {
+      // espalhar nomes em volta do centro com aleatoriedade controlada
+      const angle = Math.random() * 2 * Math.PI;
+      const distance = 150 + Math.random() * 300; // distância do centro
+      const x = centerX + distance * Math.cos(angle);
+      const y = centerY + distance * Math.sin(angle);
+
+      const span = document.createElement('div');
+      span.className = 'nome';
+      span.style.left = `${x}px`;
+      span.style.top = `${y}px`;
+      span.style.fontSize = `${12 + Math.random() * 28}px`; // tamanhos variados
+      span.style.color = cores[Math.floor(Math.random() * cores.length)];
+      span.textContent = nome;
+
+      container2.appendChild(span);
+    });
+
+    nomes[1].forEach((nome, i) => {
+      // espalhar nomes em volta do centro com aleatoriedade controlada
+      const angle = Math.random() * 2 * Math.PI;
+      const distance = 150 + Math.random() * 300; // distância do centro
+      const x = centerX2 + distance * Math.cos(angle);
+      const y = centerY2 + distance * Math.sin(angle);
+
+      const span = document.createElement('div');
+      span.className = 'nome';
+      span.style.left = `${x}px`;
+      span.style.top = `${y}px`;
+      span.style.fontSize = `${12 + Math.random() * 28}px`; // tamanhos variados
+      span.style.color = cores[Math.floor(Math.random() * cores.length)];
+      span.textContent = nome;
+
+      container.appendChild(span);
+    });
+
+    nomes[2].forEach((nome, i) => {
+      // espalhar nomes em volta do centro com aleatoriedade controlada
+      const angle = Math.random() * 2 * Math.PI;
+      const distance = 150 + Math.random() * 300; // distância do centro
+      const x = centerX + distance * Math.cos(angle);
+      const y = centerY + distance * Math.sin(angle);
+
+      const span = document.createElement('div');
+      span.className = 'nome';
+      span.style.left = `${x}px`;
+      span.style.top = `${y}px`;
+      span.style.fontSize = `${12 + Math.random() * 28}px`; // tamanhos variados
+      span.style.color = cores[Math.floor(Math.random() * cores.length)];
+      span.textContent = nome;
+
+      container3.appendChild(span);
+    });
+
+
+    function Subm() {
+      document.getElementById("submenu").classList.toggle("active");
+    }
+
+    function randomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+  </script>
+</body>
 </html>
