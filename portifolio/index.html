@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfólio</title>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+
+  .item {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    text-align: center;
+    padding: 15px;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+
+  .item h2 {
+    font-size: 1.2rem;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+
+  .item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .item p {
+    font-size: 0.95rem;
+    color: #555;
+    margin-top: 10px;
+  }
+</style>
+</head>
+
+<body>
+
+<h1>Meu Portfólio</h1>
+
+<div class="grid">
+
+  <div class="item">
+    <h2>Projeto 1</h2>
+    <img src="https://via.placeholder.com/400x250?text=Projeto+1" alt="Projeto 1">
+    <p>Descrição breve do Projeto 1.</p>
+  </div>
+
+  <div class="item">
+    <h2>Projeto 2</h2>
+    <img src="https://via.placeholder.com/400x250?text=Projeto+2" alt="Projeto 2">
+    <p>Descrição breve do Projeto 2.</p>
+  </div>
+
+  <div class="item">
+    <h2>Projeto 3</h2>
+    <img src="https://via.placeholder.com/400x250?text=Projeto+3" alt="Projeto 3">
+    <p>Descrição breve do Projeto 3.</p>
+  </div>
+
+  <div class="item">
+    <h2>Projeto 4</h2>
+    <img src="https://via.placeholder.com/400x250?text=Projeto+4" alt="Projeto 4">
+    <p>Descrição breve do Projeto 4.</p>
+  </div>
+
+  <div class="item">
+    <h2>Projeto 5</h2>
+    <img src="https://via.placeholder.com/400x250?text=Projeto+5" alt="Projeto 5">
+    <p>Descrição breve do Projeto 5.</p>
+  </div>
+
+</div>
+
+</body>
+</html>
