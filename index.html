@@ -216,7 +216,7 @@
       // espalhar nomes em volta do centro com aleatoriedade controlada
       const angle = Math.random() * 2 * Math.PI;
       const distance = 150 + Math.random() * 300; // distância do centro
-      const x = centerX2 + distance * Math.cos(angle);
+      const x = centerX2 + distance * Math.cos(angle) + randomInt(10,30);
       const y = centerY2 + distance * Math.sin(angle);
 
       const span = document.createElement('div');
