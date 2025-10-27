@@ -138,11 +138,14 @@
     </cargo>
     <cargo>
       <titulo>Outras Experiências</titulo>
-      <empresa>Agência de publicidade MK5</empresa>
+      <empresa>Agência de publicidade MK5 / VEDATEC / Tecnicópias / Malavazi / Clube do Micro</empresa>
       <atividades>
-        <item>Gestão dos Serviços efetuados pela a Empresa (Cliente, Orçamento, Ordem de Serviço e Encerramento), utilizando as linguagens Visual Basic e Sql para execução das tarefas</item>
-        <item>Arte-final somente quando existem muitas artes para serem efetuadas, plotter de recorte, impressão de fotolito</item>
-        <item>A empresa presta serviços de etiquetas, rótulos, banners, cartão, etc.</item>
+        <item>Criação do site da agência de publicidade MK5, com apoio dos recursos: Flash, Dreamweaver, Illustrator, Photoshop, Swift3D, Javascript;</item>
+        <item>Diagramação de manuais, folders, cartões de visita, identidade da empresa Burgmann do Brasil</item>
+        <item>Suporte técnico à firma VEDATEC Vedações Industriais Ltda. Desenvolvimento de SW para rotinas e procedimento necessários a implantação da ISO 2001. Elaboração de Manual de Qualidade e formação inerentes ao processo de fabricação.</item>
+        <item>Elaboração de uma apostila e CD de apresentação da empresa Tecnicópias para seu reconhecimento de ISO 9001 e para apresentação em clientes.</item>
+        <item>Desenvolvimento de software para empresa Malavazi (selos mecânicos) envolvendo múltiplas informações para obtenção de custo de peça e conjunto selo mecânico, desenvolvido primeiramente em Excel, sendo a seguir exportado para Visual Basic 6.0 toda programação e banco de informação em MDB/XLS</item>
+        <item>Professor (Estagiário) de Informática na Empresa Clube do Micro, atuando, como instrutor no seguimento de informática voltado para todas as aplicações Internet/Office/Windows. Manutenção de maquinas e impressoras.</item>
       </atividades>
     </cargo>
 
@@ -226,6 +229,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
