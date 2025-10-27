@@ -93,16 +93,18 @@
     </curso>
   </formacao>
   <extracurricular>
-    <curso>
+    <cursos>
       <titulo>Introdução a Fotografia Profissional</titulo>
       <instituicao>SENAC</instituicao>
       <local>Campinas</local>
       <periodo>Carga Horária: 20 Horas</periodo>
-    </curso>
+    </cursos>
+    <cursos>
+      <titulo>Introdução a Fotografia Profissional</titulo>
+      <instituicao>SENAC</instituicao>
+      <local>Campinas</local>
+      <periodo>Carga Horária: 20 Horas</periodo>
+    </cursos>
   </extracurricular>
 </curriculo>
-
-
-
-
 
