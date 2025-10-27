@@ -50,23 +50,38 @@
       <titulo>MKT WEB Designer/ Full Stack Web Developer</titulo>
       <empresa>AGBE Soluções / Omega</empresa>
       <local>Campinas</local>
-      <periodo>abr2023 – Atual</periodo>
+      <periodo>abr.2023 – Atual</periodo>
       <atividades>
         <item>Criar novos módulos para sistema CRM para empresa com novas funcionalidade.</item>
         <item>Utilizando API de Terceiros para automatizar sistema de LEAD.</item>
         <item>Criar Whatsapp interno dentro do sistema com interação automática com IA.</item>
-        <item>Sistema para alunos para utilizar nutrição criada pela IA; https://nutria.omegaacademia.com.br/</item>
+        <item>Sistema para alunos para utilizar nutrição criada pela IA; https://ianutri.omegaacademia.com.br/</item>
+        <item>CRM: https://login.gestaobe.com.br/ ambos crio em servidor VPS, Hostgator, AWS, saveincloud – utilização de Docker, Maquina Virtuais Linux</item>
+        <item>Serviços utilizando REST, HTML, CSS, PHP, Bootstrap, JQuery, JS, Node.js, Typescript, Bando de Dados MySQL, PostgreSQL, Python.</item>
       </atividades>
     </cargo>
     <cargo>
-      <titulo>Engenheiro Civil</titulo>
+      <titulo>MKT WEB Designer/Analista Programador/Adm. Rede</titulo>
+      <empresa>MZA / Ecoboxes</empresa>
+      <local>Paulínia</local>
+      <periodo>jul.2019 – mar.2023</periodo>
+      <atividades>
+        <item>Criar sites e vídeos das embalagens para empresa MZA/ECOBOXES. https://ecoboxes.com.br/;</item>
+        <item>Suporte do sistema ERP, melhoras; implantação VPN servidores em Linux e Arquivos; PABX Virtual; Servidor Mirro dos Servidores da empresa;Implantar Sistema de abertura de chamado.</item>
+        <item>Intranet com alguns facilities para algumas áreas da empresa; Relatórios e Power BI de dados .csv</item>
+        <item>Elaborar os Mock-up da embalagens com gravação para aprovação.E-mail marketing; postagem nas redes sociais.</item>
+      </atividades>
+    </cargo>
+    <cargo>
+      <titulo>MKT / WEB Designer / Full Stack Web Developer</titulo>
       <empresa>Construtora Beta</empresa>
       <local>São Paulo</local>
-      <periodo>20XX – 20XX</periodo>
+      <periodo>jul.2019 – mar.2023</periodo>
       <atividades>
-        <item>Acompanhamento diário da execução de obras de pavimentação e drenagem urbana.</item>
-        <item>Responsável pelo suporte à coordenação de obras residenciais.</item>
-        <item>Controle do cronograma físico-financeiro de obras e interface com clientes.</item>
+        <item>Criar sites e vídeos das embalagens para empresa MZA/ECOBOXES. https://ecoboxes.com.br/;</item>
+        <item>Suporte do sistema ERP, melhoras; implantação VPN servidores em Linux e Arquivos; PABX Virtual; Servidor Mirro dos Servidores da empresa;Implantar Sistema de abertura de chamado.</item>
+        <item>Intranet com alguns facilities para algumas áreas da empresa; Relatórios e Power BI de dados .csv</item>
+        <item>Elaborar os Mock-up da embalagens com gravação para aprovação.E-mail marketing; postagem nas redes sociais.</item>
       </atividades>
     </cargo>
   </experiencias>
@@ -149,6 +164,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
