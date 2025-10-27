@@ -9,6 +9,7 @@
     body {
         font-family: Arial, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px;
     }
+    
     nav {
       position: fixed;
       top: 0;
@@ -61,6 +62,7 @@
     .submenu.active {
       max-width: 500px;
     }
+    
   h1 {
     text-align: center;
     margin-bottom: 30px;
@@ -105,16 +107,36 @@
     margin-top: 10px;
   }
 
-    footer {
-      background: #357d93;
-      color: #fff;
-      text-align: center;
-      padding: 15px;
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-    }
+.meta {
+font-size: 0.85rem;
+color: var(--muted);
+}
+
+.tags {
+margin-top: 8px;
+display: flex;
+gap: 6px;
+flex-wrap: wrap;
+}
+
+.tag {
+font-size: 0.75rem;
+background: #e0ebff;
+color: var(--accent);
+padding: 4px 8px;
+border-radius: 999px;
+}
+    
+footer {
+  background: #357d93;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
 </style>
 </head>
 
@@ -143,6 +165,8 @@
     <h2>Projeto 1</h2>
     <img src="https://via.placeholder.com/400x250?text=Projeto+1" alt="Projeto 1">
     <p>Descrição breve do Projeto 1.</p>
+    <div class="meta">Jul — Dez 2023 • Cliente: Delta</div>
+    <div class="tags"><span class="tag">Web</span><span class="tag">Shopify</span></div>
   </div>
 
   <div class="item">
@@ -180,6 +204,7 @@
 </script>
 </body>
 </html>
+
 
 
 
