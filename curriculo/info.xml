@@ -92,8 +92,16 @@
       <periodo>1994 - 1999</periodo>
     </curso>
   </formacao>
-
+  <extracurricular>
+    <curso>
+      <titulo>Introdução a Fotografia Profissional</titulo>
+      <instituicao>SENAC</instituicao>
+      <local>Campinas</local>
+      <periodo>Carga Horária: 20 Horas</periodo>
+    </curso>
+  </extracurricular>
 </curriculo>
+
 
 
 
