@@ -148,7 +148,16 @@
         <item>Professor (Estagiário) de Informática na Empresa Clube do Micro, atuando, como instrutor no seguimento de informática voltado para todas as aplicações Internet/Office/Windows. Manutenção de maquinas e impressoras.</item>
       </atividades>
     </cargo>
-
+    <cargo>
+      <titulo>Outras Experiências</titulo>
+      <empresa>Projetos de Comunicação Social (Publicidade e Propaganda)</empresa>
+      <atividades>
+        <item>Combate ao fumo, onde o slogan tratava “Quem Consome Quem?”.2º ano</item>
+        <item>Bonecas Pedagógicas, o slogan caracterizava “Mãos que regem a Vida”.3º ano</item>
+        <item>Empresa Apotek (Empresa de embalagem), na conclusão do curso</item>
+        <item>Todos tiveram desenvolvimento de Pesquisa de Campo, “briefing”, Planejamento de Comunicação/Mkt/Mídia, Produção Gráfica\Site\TV\Rádio.</item>
+      </atividades>
+    </cargo>
   </experiencias>
 
   <formacao>
@@ -229,6 +238,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
