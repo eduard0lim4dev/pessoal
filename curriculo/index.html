@@ -115,8 +115,9 @@
         <p><strong>${c.querySelector("titulo").textContent}</strong><br>
         ${c.querySelector("instituicao").textContent}, ${c.querySelector("local").textContent} | ${c.querySelector("periodo").textContent}</p>
       `).join("");
-      direita.innerHTML += `<section class="bloco"><h3>Cursos Extracurriculares</h3>${cursos}</section>`;
+      direita.innerHTML += `<section class="bloco2"><h3>Cursos Extracurriculares</h3>${cursos}</section>`;
     }
+    
     carregarCurriculo();
 
     document.getElementById('baixarPDF').addEventListener('click', async () => {
@@ -148,6 +149,7 @@
   </script>
 </body>
 </html>
+
 
 
 
