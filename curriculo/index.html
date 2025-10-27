@@ -108,6 +108,7 @@
       const formacao = [...xml.querySelectorAll("formacao curso")].map(f => `
         <p><strong>${f.querySelector("titulo").textContent}</strong><br>
         ${f.querySelector("instituicao").textContent}, ${f.querySelector("local").textContent} | ${f.querySelector("periodo").textContent}</p>
+         <ul>${[...f.querySelectorAll("atividades item")].map(a => `<li>${a.textContent}</li>`).join("")}</ul>
       `).join("");
       direita.innerHTML += `<section class="bloco"><h3>FORMAÇÃO ACADÊMICA</h3>${formacao}</section>`;
   
@@ -149,6 +150,7 @@
   </script>
 </body>
 </html>
+
 
 
 
