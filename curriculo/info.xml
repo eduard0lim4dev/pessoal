@@ -29,7 +29,7 @@
   </habilidades>
 
   <programas>
-    <programa nome="AutoCAD" nivel="5"/>
+    <programa nome="Excel VB6.0" nivel="5"/>
     <programa nome="Revit (BIM)" nivel="4"/>
     <programa nome="MS Project" nivel="3"/>
     <programa nome="SketchUp" nivel="3"/>
@@ -74,14 +74,36 @@
     </cargo>
     <cargo>
       <titulo>MKT / WEB Designer / Full Stack Web Developer</titulo>
-      <empresa>Construtora Beta</empresa>
-      <local>São Paulo</local>
-      <periodo>jul.2019 – mar.2023</periodo>
+      <empresa>Agência SAAD Propaganda</empresa>
+      <local>Campinas</local>
+      <periodo>jan.2019 – jun.2019</periodo>
       <atividades>
-        <item>Criar sites e vídeos das embalagens para empresa MZA/ECOBOXES. https://ecoboxes.com.br/;</item>
-        <item>Suporte do sistema ERP, melhoras; implantação VPN servidores em Linux e Arquivos; PABX Virtual; Servidor Mirro dos Servidores da empresa;Implantar Sistema de abertura de chamado.</item>
-        <item>Intranet com alguns facilities para algumas áreas da empresa; Relatórios e Power BI de dados .csv</item>
-        <item>Elaborar os Mock-up da embalagens com gravação para aprovação.E-mail marketing; postagem nas redes sociais.</item>
+        <item>Desenvolvimento de sites, animações e vídeos</item>
+        <item>Ferramentas Adobe Premier, Animate, After Effect, Photoshop, Illustrator, Dreamwaver, html5, css3, framework, Javascript, Php, Wordpress</item>
+        <item>Suporte nos diversos programas que já existentes na empresa – HELP DESK ao usuário finais para mais de 12 filiais, melhorias e ajustes para a necessidade dos usuários.</item>
+      </atividades>
+    </cargo>
+    <cargo>
+      <titulo>Programador Delphi 7,12,XD/Adm. Rede</titulo>
+      <empresa>Fator Distribuidora</empresa>
+      <local>Campinas</local>
+      <periodo>jan.2016 – jun.2018</periodo>
+      <atividades>
+        <item>Desenvolvedor de software específicos para automatização (SERASA, EDI, XML SAIDA/ENTRADA, Layout CNAB, Conciliação bancaria, etc</item>
+        <item>Utilizando as linguagens Delphi, VB, Excel, Bash, BAT, Python, Querys, C#, SQL/Procedures/View, ASP, PHP, HTML, CLIPPER</item>
+        <item>Google Ads, Facebook Ads, google Analytics e SEO</item>
+      </atividades>
+    </cargo>
+    <cargo>
+      <titulo>Administrador de Redes/ TI</titulo>
+      <empresa>Ideal Iluminação</empresa>
+      <local>Campinas</local>
+      <periodo>jul.2009 – mai.2016</periodo>
+      <atividades>
+        <item>Responsável pelos Servidores Cloud e Servidores Internos, telefonia PABX/DDR e pelo desenvolvimento dos sistemas internos: produção, rh, logística</item>
+        <item>Manutenção e programação do site Mysql/Javascript/html/css/php da empresa, criação de vídeo para site/on-line/Leroy Merlin/Feira FEICON, anúncios/pdv dos produtos mais as embalagens</item>
+        <item>Servidor samba, câmeras/ip, apache, Php, Mysql, Firebird, Sql Server, ambiente Linux, backup manutenção e suporte para o sistema da empresa, incluindo equipamentos de informática.</item>
+        <item>Desenvolvimento de sistema complementares que não possui no ERP da empresa criação e impressão de etiqueta em código EAN13/QRcode – utilizado em qualquer plataforma celular ou desktop; sistema de romaneio desenvolvido em Excel – linkado com Sql Server do sistema principal para geração de paletes; dentre outros conforme a necessidade e melhoria continua dos processos internos da empresa.</item>
       </atividades>
     </cargo>
   </experiencias>
@@ -164,6 +186,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
