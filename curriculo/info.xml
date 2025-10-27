@@ -77,15 +77,24 @@
       <local>São Paulo</local>
       <periodo>20XX – 20XX</periodo>
     </curso>
+    
     <curso>
-      <titulo>Engenharia Civil</titulo>
-      <instituicao>Universidade de São Paulo (USP)</instituicao>
-      <local>São Paulo</local>
-      <periodo>20XX – 20XX</periodo>
+      <titulo>Habilitação em Publicidade e Propaganda</titulo>
+      <instituicao>Superior - Faculdade de Valinhos (FAV)</instituicao>
+      <local>Valinhos</local>
+      <periodo>2000 - 2005</periodo>
+    </curso>
+    
+    <curso>
+      <titulo>Processamento de Dados (PD)</titulo>
+      <instituicao>Escola Salesiana São José (ETEC) </instituicao>
+      <local>Campinas</local>
+      <periodo>1994 - 1999</periodo>
     </curso>
   </formacao>
 
 </curriculo>
+
 
 
 
