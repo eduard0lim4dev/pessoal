@@ -75,15 +75,15 @@
       <titulo>Pós-Técnico – Aplicativos para Smartphones (Plataforma Android)</titulo>
       <instituicao>
           Centro Paula Souza e o Instituto Nextel
-          <ul>
-                <li>*Sistema Operacional Android 50 horas</li> 
-                <li>*Lógica de Programação 50 horas</li>
-                <li>*Inglês Instrumental 100 horas</li>
-                <li>*Linguagem de Programação JAVA 100 horas</li> 
-                <li>*Banco de Dados 50 horas</li>
-                <li>*Empreendedorismo 50 horas</li>
-                <li>*Desenvolvimento de Projetos 100 horas</li>
-          </ul>
+          <habilidades>
+                <item>*Sistema Operacional Android 50 horas</item> 
+                <item>*Lógica de Programação 50 horas</item>
+                <item>*Inglês Instrumental 100 horas</item>
+                <item>*Linguagem de Programação JAVA 100 horas</item> 
+                <item>*Banco de Dados 50 horas</item>
+                <item>*Empreendedorismo 50 horas</item>
+                <item>*Desenvolvimento de Projetos 100 horas</item>
+          </habilidades>
       </instituicao>
       <local>Campinas</local>
       <periodo>2010 - 2011</periodo>
@@ -127,6 +127,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
