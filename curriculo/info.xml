@@ -72,10 +72,19 @@
 
   <formacao>
     <curso>
-      <titulo>Pós-graduação em Gerenciamento de Projetos de Engenharia</titulo>
-      <instituicao>Fundação Getúlio Vargas (FGV)</instituicao>
-      <local>São Paulo</local>
-      <periodo>20XX – 20XX</periodo>
+      <titulo>Pós-Técnico – Aplicativos para Smartphones (Plataforma Android)</titulo>
+      <instituicao>
+          Centro Paula Souza e o Instituto Nextel
+                *Sistema Operacional Android 50 horas 
+                *Lógica de Programação 50 horas 
+                *Inglês Instrumental 100 horas 
+                *Linguagem de Programação Java 100 horas 
+                *Banco de Dados 50 horas 
+                *Empreendedorismo 50 horas 
+                *Desenvolvimento de Projetos 100 horas 
+      </instituicao>
+      <local>Campinas</local>
+      <periodo>2010 - 2011</periodo>
     </curso>
     
     <curso>
@@ -109,5 +118,6 @@
   </extracurricular>
   
 </curriculo>
+
 
 
