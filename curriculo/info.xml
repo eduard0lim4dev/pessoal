@@ -139,6 +139,8 @@
     <cargo>
       <titulo>Outras Experiências</titulo>
       <empresa>Agência de publicidade MK5 / VEDATEC / Tecnicópias / Malavazi / Clube do Micro</empresa>
+      <local></local>
+      <periodo></periodo>
       <atividades>
         <item>Criação do site da agência de publicidade MK5, com apoio dos recursos: Flash, Dreamweaver, Illustrator, Photoshop, Swift3D, Javascript;</item>
         <item>Diagramação de manuais, folders, cartões de visita, identidade da empresa Burgmann do Brasil</item>
@@ -151,6 +153,8 @@
     <cargo>
       <titulo>Outras Experiências</titulo>
       <empresa>Projetos de Comunicação Social (Publicidade e Propaganda)</empresa>
+      <local></local>
+      <periodo></periodo>
       <atividades>
         <item>Combate ao fumo, onde o slogan tratava “Quem Consome Quem?”.2º ano</item>
         <item>Bonecas Pedagógicas, o slogan caracterizava “Mãos que regem a Vida”.3º ano</item>
@@ -238,6 +242,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
