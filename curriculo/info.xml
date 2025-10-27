@@ -78,7 +78,7 @@
                 *Sistema Operacional Android 50 horas 
                 *Lógica de Programação 50 horas 
                 *Inglês Instrumental 100 horas 
-                *Linguagem de Programação Java 100 horas 
+                *Linguagem de Programação JAVA 100 horas 
                 *Banco de Dados 50 horas 
                 *Empreendedorismo 50 horas 
                 *Desenvolvimento de Projetos 100 horas 
@@ -110,14 +110,22 @@
       <periodo>Carga Horária: 20 Horas</periodo>
     </extra>
     <extra>
-      <titulo>Introdução a Fotografia Profissional</titulo>
+      <titulo>Ilustração Digital e Tratamento de Imagem</titulo>
       <instituicao>SENAC</instituicao>
       <local>Campinas</local>
-      <periodo>Carga Horária: 20 Horas</periodo>
+      <periodo>Carga Horária: 60 Horas</periodo>
     </extra>
+    <extra>
+      <titulo>Atendimento ao Cliente</titulo>
+      <instituicao>Akenus</instituicao>
+      <local>Campinas</local>
+      <periodo>Carga Horária: 08 Horas</periodo>
+    </extra>
+
   </extracurricular>
   
 </curriculo>
+
 
 
 
