@@ -121,10 +121,34 @@
       <local>Campinas</local>
       <periodo>Carga Horária: 08 Horas</periodo>
     </extra>
-
+    <extra>
+      <titulo>Microsoft Conceitos/Desenvolvimento em C#</titulo>
+      <instituicao>Microsoft</instituicao>
+      <local>On-line</local>
+      <periodo>Carga Horária: 20 Horas</periodo>
+    </extra>
+    <extra>
+      <titulo>Introdução ao JSON com C#</titulo>
+      <instituicao>Microsoft</instituicao>
+      <local>On-line</local>
+      <periodo>Carga Horária: 20 Horas</periodo>
+    </extra>
+    <extra>
+      <titulo>Developing Games with Unity 5</titulo>
+      <instituicao>Microsoft</instituicao>
+      <local>On-line</local>
+      <periodo>Carga Horária: 100 Horas</periodo>
+    </extra>
+    <extra>
+      <titulo>Desenvolvimento Sharepoint </titulo>
+      <instituicao>Microsoft</instituicao>
+      <local>On-line</local>
+      <periodo>Carga Horária: 60 Horas</periodo>
+    </extra>
   </extracurricular>
   
 </curriculo>
+
 
 
 
