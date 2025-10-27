@@ -116,7 +116,7 @@
 
     document.getElementById('baixarPDF').addEventListener('click', async () => {
       const { jsPDF } = window.jspdf;
-      const pdf = new jsPDF('landscape', 'pt', 'a4'); // modo deitado
+      const pdf = new jsPDF('portrait', 'pt', 'a4'); // modo deitado
       const cv = document.getElementById('curriculo');
       await pdf.html(cv, {
         callback: () => pdf.save("Curriculo-EduardoLima.pdf"),
@@ -143,6 +143,7 @@
   </script>
 </body>
 </html>
+
 
 
 
