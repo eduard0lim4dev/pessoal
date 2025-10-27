@@ -1,1 +1,31 @@
+<periodo>abr.2023 – Atual</periodo>
+<empresa>AGBE Soluções / Omega</empresa>
+<titulo>Programador / Full Stack Web Developer</titulo>
 
+<periodo>jul.2019 – mar.2023</periodo>
+<empresa>MZA / Ecoboxes</empresa>
+<titulo>MKT WEB Designer/Analista Programador/Adm. Rede</titulo>
+
+<periodo>jan.2019 – jun.2019</periodo>
+<empresa>Agência SAAD Propaganda</empresa>
+<titulo>MKT / WEB Designer / Full Stack Web Developer</titulo>
+
+<periodo>jan.2016 – jun.2018</periodo>
+<empresa>Fator Distribuidora</empresa>
+<titulo>Programador Delphi 7,12,XD/Adm. Rede</titulo>
+
+<periodo>jul.2009 – mai.2016</periodo>
+<empresa>Ideal Iluminação</empresa>
+<titulo>Administrador de Redes/ TI</titulo>
+
+<periodo>jan.2007 – jun.2009</periodo>
+<empresa>DDCRED</empresa>
+<titulo>Administrador de Redes/ TI</titulo>
+
+<periodo>jan.2005 – nov.2007</periodo>
+<empresa>Microcamp Campinas</empresa>
+<titulo>Instrutor de Informática</titulo>
+
+<periodo>jan.2003 – dez.2005</periodo>
+<empresa>Empresa Galfix</empresa>
+<titulo>Desenvolvimento de Software</titulo>
