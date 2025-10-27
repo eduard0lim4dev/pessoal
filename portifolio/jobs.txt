@@ -1,0 +1,26 @@
+AGBE
+melhorar sistema crm para academia
+criar tarefas minuto a minuto para cada colaborador
+criar tarefas entre os colaboradores mundar status
+criar BV para acompanhar visitar dentros das academias
+criar BV para Psicna acompanhar visitar dentros das academias
+criar realtorios do cadastros obtidos dentro dos BV
+criar e implementar dentro do sistema whatsapp business API
+criar pré automação para novos LEAD que acessar o numero da academia
+criar disparo de modelo de mesagem via whatsap
+criar a interação com as entrada de LEAD direta para sistema da academia
+adicionar botão para apresentar a conversa dentro do sistema com o cliente
+
+
+07:55 05/05/2025        -> TRANSWAR
+TRANSWAR
+desenvolver um sistema para remover duas plataformas (Alfresco + Xamp)
+criar modo mais simples de sistema de acessos para acessas sistema anterior
+criar functions primarias para coodernar as ações dentro do sistema
+criar cadastro de usuarios e tipos e modos de acessos
+criar dashboard para cada departamento
+criar permissoes e programas que cada usuario tera acesso
+criar jornada de trabalho vindo do sistema Autotrac para gerar arquivo RTF ponto
+criar programa para automação de remessas DSM/FIRM conforme dados obtidos siimp
+criar programa para apresetar os dados enviados para sistema DSM/FIRM
+criar programa para enviar remessa manual para empresa DSM/FIRM
