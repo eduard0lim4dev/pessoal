@@ -110,7 +110,7 @@
         ${f.querySelector("instituicao").textContent}, ${f.querySelector("local").textContent} | ${f.querySelector("periodo").textContent}</p>
       `).join("");
       direita.innerHTML += `<section class="bloco"><h3>FORMAÇÃO ACADÊMICA</h3>${formacao}</section>`;
-    }
+  
       const extras = [...xml.querySelectorAll("extracurricular extra")].map(c => `
         <p><strong>${c.querySelector("titulo").textContent}</strong><br>
         ${c.querySelector("instituicao").textContent}, ${c.querySelector("local").textContent} | ${c.querySelector("periodo").textContent}</p>
@@ -149,6 +149,7 @@
   </script>
 </body>
 </html>
+
 
 
 
