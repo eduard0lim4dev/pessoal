@@ -106,6 +106,46 @@
         <item>Desenvolvimento de sistema complementares que não possui no ERP da empresa criação e impressão de etiqueta em código EAN13/QRcode – utilizado em qualquer plataforma celular ou desktop; sistema de romaneio desenvolvido em Excel – linkado com Sql Server do sistema principal para geração de paletes; dentre outros conforme a necessidade e melhoria continua dos processos internos da empresa.</item>
       </atividades>
     </cargo>
+    <cargo>
+      <titulo>Administrador de Redes/ TI</titulo>
+      <empresa>DDCRED</empresa>
+      <local>Campinas</local>
+      <periodo>jan.2007 – jun.2009</periodo>
+      <atividades>
+        <item>Gerenciamento de Servidores Linux/Windows (Dhcp, Samba, Firewall, DNS, Web, E-mail, Proxy, Back-up, Svn, OpenVPN)</item>
+        <item>Desenvolvimento de gestão em TI (Bash, C++, Pynton, Php, Mysql) – DDCRED SERVIÇOS</item>
+      </atividades>
+    </cargo>
+    <cargo>
+      <titulo>Instrutor de Informática</titulo>
+      <empresa>Microcamp Campinas</empresa>
+      <local>Campinas</local>
+      <periodo>jan.2005 – nov.2007</periodo>
+      <atividades>
+        <item>Responsável em ministrar aulas de Hardware, Webdesign, Dotnet, DotVista e Tecnologia da Informação (TI)</item>
+      </atividades>
+    </cargo>
+    <cargo>
+      <titulo>Desenvolvimento de Software</titulo>
+      <empresa>Empresa Galfix</empresa>
+      <local>Campinas</local>
+      <periodo>jan.2003 – dez.2005</periodo>
+      <atividades>
+        <item>Gestão dos Serviços efetuados pela a Empresa (Cliente, Orçamento, Ordem de Serviço e Encerramento), utilizando as linguagens Visual Basic e Sql para execução das tarefas</item>
+        <item>Arte-final somente quando existem muitas artes para serem efetuadas, plotter de recorte, impressão de fotolito</item>
+        <item>A empresa presta serviços de etiquetas, rótulos, banners, cartão, etc.</item>
+      </atividades>
+    </cargo>
+    <cargo>
+      <titulo>Outras Experiências</titulo>
+      <empresa>Agência de publicidade MK5</empresa>
+      <atividades>
+        <item>Gestão dos Serviços efetuados pela a Empresa (Cliente, Orçamento, Ordem de Serviço e Encerramento), utilizando as linguagens Visual Basic e Sql para execução das tarefas</item>
+        <item>Arte-final somente quando existem muitas artes para serem efetuadas, plotter de recorte, impressão de fotolito</item>
+        <item>A empresa presta serviços de etiquetas, rótulos, banners, cartão, etc.</item>
+      </atividades>
+    </cargo>
+
   </experiencias>
 
   <formacao>
@@ -186,6 +226,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
