@@ -47,14 +47,15 @@
 
   <experiencias>
     <cargo>
-      <titulo>Engenheiro Civil Pleno</titulo>
-      <empresa>Construtora Alfa</empresa>
-      <local>São Paulo</local>
-      <periodo>20XX – 20XX</periodo>
+      <titulo>MKT WEB Designer/ Full Stack Web Developer</titulo>
+      <empresa>AGBE Soluções / Omega</empresa>
+      <local>Campinas</local>
+      <periodo>abr2023 – Atual</periodo>
       <atividades>
-        <item>Utilização de AutoCAD, Revit e MS Project para desenvolvimento e acompanhamento de projetos.</item>
-        <item>Planejamento e execução de obras residenciais de médio porte.</item>
-        <item>Redução de custos em 12% através da otimização logística e gestão de fornecedores.</item>
+        <item>Criar novos módulos para sistema CRM para empresa com novas funcionalidade.</item>
+        <item>Utilizando API de Terceiros para automatizar sistema de LEAD.</item>
+        <item>Criar Whatsapp interno dentro do sistema com interação automática com IA.</item>
+        <item>Sistema para alunos para utilizar nutrição criada pela IA; https://nutria.omegaacademia.com.br/</item>
       </atividades>
     </cargo>
     <cargo>
@@ -148,6 +149,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
