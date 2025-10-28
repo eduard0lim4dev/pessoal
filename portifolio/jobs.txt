@@ -1,16 +1,26 @@
 AGBE
 melhorar sistema crm para academia
 criar tarefas minuto a minuto para cada colaborador
-criar tarefas entre os colaboradores mundar status
+criar tarefas entre os colaboradores mundando seu status
+criar lista de tarefas para cada colaborador determinar suas tarefas a ser cumpridas
+criar gerenciador de tarefas que interage com os colaboradores dentro do sistema
+criar dashboard informando os status das tarefas minuto a minuto
+criar calendario de Vendas para consultoras
 criar BV para acompanhar visitar dentros das academias
-criar BV para Psicna acompanhar visitar dentros das academias
-criar realtorios do cadastros obtidos dentro dos BV
+criar BV para Piscina para acompanhar visitar dentros das academias
+criar uma listagem dos atendimentos feitas utilizando BV e se fechou ou não
+criar relatórios do cadastros obtidos dentro dos BV
 criar e implementar dentro do sistema whatsapp business API
 criar pré automação para novos LEAD que acessar o numero da academia
-criar disparo de modelo de mesagem via whatsap
+criar disparo de modelo de mesagem via whatsapp
 criar a interação com as entrada de LEAD direta para sistema da academia
 adicionar botão para apresentar a conversa dentro do sistema com o cliente
-
+criar area para manual para gestor
+criar uma agenda que interagem entre os gestores da academia
+adicionar inteligencia artificial para interagir com as conversas dentro do sistema
+elaborar nova tela para entrada de LEAD junto com a IA
+criar o andamento dos atendimentos utilizando a IA; informando: Em Atendimento, agendados e sem interesse
+criar um novo sistema para Alunos para gerar cardapio diario usando IA
 
 07:55 05/05/2025        -> TRANSWAR
 TRANSWAR
