@@ -29,10 +29,30 @@
   </habilidades>
 
   <programas>
-    <programa nome="Excel VB6.0" nivel="5"/>
-    <programa nome="Revit (BIM)" nivel="4"/>
-    <programa nome="MS Project" nivel="3"/>
-    <programa nome="SketchUp" nivel="3"/>
+      <programa nome="Adobe Premier" nivel="4"/>
+      <programa nome="Animate" nivel="4"/>
+      <programa nome="After Effect" nivel="4"/>
+      <programa nome="Photoshop" nivel="5"/>
+      <programa nome="Blender" nivel="5"/>
+      <programa nome="Cinema 4d" nivel="4"/>
+      <programa nome="Gimp" nivel="5"/>
+      <programa nome="CorelDraw" nivel="5"/>
+      <programa nome="Illustrator" nivel="5"/>
+      <programa nome="Dreamwaver" nivel="4"/>
+      <programa nome="html5" nivel="5"/>
+      <programa nome="css3" nivel="5"/>
+      <programa nome="framework" nivel="4"/>
+      <programa nome="C++" nivel="5"/>
+      <programa nome="C#" nivel="5"/>
+      <programa nome="Javascript" nivel="5"/>
+      <programa nome="Java" nivel="5"/>
+      <programa nome="Php" nivel="5"/>
+      <programa nome="python" nivel="5"/>
+      <programa nome="Delphi" nivel="5"/>
+      <programa nome="VB" nivel="5"/>
+      <programa nome="SQL" nivel="5"/>
+      <programa nome="Wordpress" nivel="5"/>
+      <programa nome="Word,Excel,PowerBI" nivel="5"/>
   </programas>
 
   <interesses>
@@ -242,6 +262,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
