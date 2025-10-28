@@ -35,19 +35,20 @@
       <programa nome="Photoshop" nivel="5"/>
       <programa nome="Blender" nivel="5"/>
       <programa nome="Cinema 4d" nivel="4"/>
-      <programa nome="Gimp" nivel="5"/>
+      <programa nome="Gimp" nivel="3"/>
       <programa nome="CorelDraw" nivel="5"/>
       <programa nome="Illustrator" nivel="5"/>
       <programa nome="Dreamwaver" nivel="4"/>
       <programa nome="html5" nivel="5"/>
       <programa nome="css3" nivel="5"/>
-      <programa nome="framework" nivel="4"/>
-      <programa nome="C++" nivel="5"/>
-      <programa nome="C#" nivel="5"/>
+      <programa nome="frameworks" nivel="4"/>
+      <programa nome="C++" nivel="4"/>
+      <programa nome="C#" nivel="4"/>
+      <programa nome="Typescript" nivel="3"/>
       <programa nome="Javascript" nivel="5"/>
-      <programa nome="Java" nivel="5"/>
+      <programa nome="Java" nivel="4"/>
       <programa nome="Php" nivel="5"/>
-      <programa nome="python" nivel="5"/>
+      <programa nome="python" nivel="3"/>
       <programa nome="Delphi" nivel="5"/>
       <programa nome="VB" nivel="5"/>
       <programa nome="SQL" nivel="5"/>
@@ -262,6 +263,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
