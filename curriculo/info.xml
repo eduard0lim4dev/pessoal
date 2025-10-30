@@ -16,16 +16,16 @@
 
   <idiomas>
     <idioma nome="Português" nivel="Nativo"/>
-    <idioma nome="Inglês" nivel="Intermediário (B2)"/>
-    <idioma nome="Espanhol" nivel="Básico (A2)"/>
+    <idioma nome="Inglês" nivel="Intermediário (Técnico)"/>
+    <idioma nome="Espanhol" nivel="Básico"/>
   </idiomas>
 
   <habilidades>
     <item>Gestão de equipe</item>
-    <item>Elaboração de orçamentos</item>
-    <item>Controle de qualidade</item>
     <item>Comunicação</item>
-    <item>Interpretação de projetos</item>
+    <item>Criação de Software</item>
+    <item>Administração - Servidores</item>
+    <item>Desenvolvimentos Complexos</item>
   </habilidades>
 
   <programas>
@@ -58,8 +58,9 @@
 
   <interesses>
     <item>Tecnologia e Inovação</item>
-    <item>Leitura de Biografias</item>
-    <item>Ciclismo e esportes</item>
+    <item>Marketing Digital</item>
+    <item>Leituras Técnicas</item>
+    <item>Hardware, IoT, 3D</item>
   </interesses>
 
   <perfil>
@@ -263,6 +264,7 @@
   </extracurricular>
   
 </curriculo>
+
 
 
 
