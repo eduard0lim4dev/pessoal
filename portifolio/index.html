@@ -683,10 +683,6 @@ footer {
 <footer> © 2025 - Todos os direitos reservados
 </footer>
 <script>
-     function Subm() {
-      document.getElementById("submenu").classList.toggle("active");
-    }
-
 document.querySelectorAll(".carousel").forEach(carousel => {
 
   const img = carousel.querySelector(".carousel-img");
@@ -707,10 +703,17 @@ document.querySelectorAll(".carousel").forEach(carousel => {
   });
 
 });
+	
+function Subm() {
+    document.getElementById("submenu").classList.toggle("active");
+}
+
+
 
 </script>
 </body>
 </html>
+
 
 
 
