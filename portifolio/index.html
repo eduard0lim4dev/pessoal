@@ -773,6 +773,10 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 
 });
 	
+document.getElementById("imgAbrir").addEventListener("click", function () {
+    window.open(this.src, "_blank");
+});
+	
 function Subm() {
     document.getElementById("submenu").classList.toggle("active");
 }
@@ -782,6 +786,7 @@ function Subm() {
 </script>
 </body>
 </html>
+
 
 
 
