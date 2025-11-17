@@ -761,10 +761,6 @@ document.querySelectorAll(".carousel").forEach(carousel => {
   const btnPrev = carousel.querySelector(".prev");
   const btnNext = carousel.querySelector(".next");
 
-  img.addEventListener("click", () => {
-        window.open(img.src, "_blank");
-  });
-	
   btnPrev.addEventListener("click", () => {
     index = (index - 1 + imagens.length) % imagens.length;
     img.src = imagens[index];
@@ -780,14 +776,14 @@ document.querySelectorAll(".carousel").forEach(carousel => {
 document.getElementById("imgAbrir").addEventListener("click", function () {
     window.open(this.src, "_blank");
 });
-
+*/
 document.querySelectorAll(".carousel-img").forEach(img => {
     img.style.cursor = "pointer";
     img.addEventListener("click", () => {
         window.open(img.src, "_blank");
     });
 });
-*/
+
 function Subm() {
     document.getElementById("submenu").classList.toggle("active");
 }
@@ -797,6 +793,7 @@ function Subm() {
 </script>
 </body>
 </html>
+
 
 
 
